@@ -1,0 +1,4 @@
+"Model","Test_MAE"
+"Constant mean baseline",1.44110010756278
+"Linear regression",1.41797313970153
+"Poisson regression",1.4172362881659
