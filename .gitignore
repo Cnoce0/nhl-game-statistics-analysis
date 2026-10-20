@@ -1,0 +1,13 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# RStudio project files
+.Rproj.user/
+
+# Locally stored data
+data/raw/
+data/processed/
+
